@@ -1,4 +1,4 @@
-# DevOps Engineer Infrastructure Challenge
+# DevOps Engineer Infrastructure 
 
 Minimal production-style Kubernetes application demonstrating:
 
